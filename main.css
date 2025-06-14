@@ -32,7 +32,6 @@ body {
 .container {
   display: grid;
   gap: 3rem;
-  box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.2);
   padding: 4rem 8rem;
 }
 @media only screen and (max-width: 93.75em) {
